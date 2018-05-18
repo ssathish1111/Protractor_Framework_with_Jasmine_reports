@@ -1,0 +1,19 @@
+{
+	"name": "chutti",
+	"description": "Webdriver E2E test wrapper for Angular.",
+	"URL": "http://cnt.cloudnowtech.net",
+	"devDependencies": {
+		"jasmine-allure-reporter": "~0.2.3",
+		"jasmine-core": "~2.8.0",
+		"jasmine-reporters": "~2.0.0",
+		"jasmine-spec-reporter": "~4.2.1",
+		"protractor": "~5.1.2",
+		"protractor-jasmine2-html-reporter": "~0.0.5",
+		"protractor-jasmine2-screenshot-reporter": "~0.1.7",
+		"selenium-webdriver": "^2.47.1",
+		"winston": "~1.0.1"
+	},
+	"dependencies": {
+		"lint": "^1.1.2"
+	}
+}
